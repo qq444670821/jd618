@@ -1,1 +1,1 @@
-`ql repo https://github.com/lucifer714/jd618.git`
+#自用
